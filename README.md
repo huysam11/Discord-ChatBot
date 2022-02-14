@@ -1,4 +1,4 @@
 # Discord-bot
 
+Automated Bot will response on a command of users.
 
-When user say " Hello " , Discord bot will reply " Hello There ".
