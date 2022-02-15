@@ -1,5 +1,5 @@
 # Discord-bot
-Followed steps in this website https://discord.js.org/#/ To make my own discord bot 
+Followed steps in this website https://discord.js.org/#/ To make my own discord bot    
 Api used: https://zenquotes.io/api/quotes
 
 # Hello Command 
