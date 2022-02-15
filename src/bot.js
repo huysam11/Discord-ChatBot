@@ -26,7 +26,7 @@ client.on('message', async msg => {
 });
 
   async function getQuote(){
-  const res = await axios.get('https://zenquotes.io/api/today');
+  const res = await axios.get('https://zenquotes.io/api/quotes');
   console.log(res.data)
   return res.data[0].q + " By "+ res.data[0].a;
 }
