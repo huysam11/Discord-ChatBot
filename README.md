@@ -11,4 +11,4 @@ When user type "!quote", Bot will reply a random quote and Author of the quote f
 ![image](https://user-images.githubusercontent.com/99052999/153988094-4ffadc24-bfed-4b85-ab5a-e90cae3e51d1.png)  
 ![image](https://user-images.githubusercontent.com/99052999/153988585-3d7357ba-3666-45b6-85c2-81f5072c25b1.png)
 
-#  I will be updating more features and commands to the bot in future
+
