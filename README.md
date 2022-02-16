@@ -1,4 +1,5 @@
 # Discord-bot
+Discord bots are AIs that can perform a number of useful automated tasks and bot commands on your server   
 Followed steps in this website https://discord.js.org/#/ To make my own discord bot      
 Api used: https://zenquotes.io/api/quotes  
 The bot is currently running 24/7. You can add it into your server here:   
